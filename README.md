@@ -7,3 +7,8 @@ Run swi-prolog:
 ```
     swipl
 ```
+
+Run swi-prolog with file:
+```
+    swipl <filename>.pl
+```
